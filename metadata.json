@@ -1,0 +1,10 @@
+{
+  "uuid": "hide-power-mode@Imbecile6197.github.io",
+  "name": "Hide Power Mode",
+  "description": "Hide the Power Mode tile and its submenu in Quick Settings, together with the power profile indicator in the top panel.\n\nThe active power profile and power management service are unchanged. Disable the extension to restore the controls. Power profiles remain available in Settings.",
+  "shell-version": [
+    "50"
+  ],
+  "url": "https://github.com/Imbecile6197/hide-power-mode",
+  "version-name": "1.1.0"
+}
