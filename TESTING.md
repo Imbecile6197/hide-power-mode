@@ -20,4 +20,8 @@ Verified:
 The test changes the tile's local `checked` property to exercise the icon
 binding, without setting the system power profile over D-Bus. It does not test
 every third-party extension combination, real login startup, or lock/unlock.
-Only GNOME Shell 50 is advertised in the public metadata.
+## Release 1.1.1
+
+The maintainer confirmed that the extension works on GNOME Shell 51. The
+release metadata now advertises GNOME Shell 50 and 51. The extension JavaScript
+is identical to release 1.1.0.

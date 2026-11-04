@@ -9,7 +9,9 @@ according to the current system state.
 
 ## Compatibility
 
-GNOME Shell 50. Tested on Fedora Workstation 44 with GNOME Shell 50.6.
+GNOME Shell 50 and 51. The automated test ran on Fedora Workstation 44 with
+GNOME Shell 50.6. The maintainer confirmed that the extension works on GNOME
+Shell 51.
 Other desktop environments are not supported. Future GNOME major versions must
 be checked and tested before they are added to `shell-version`.
 
